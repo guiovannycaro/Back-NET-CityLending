@@ -1,0 +1,6 @@
+@WSBackCityLending_HostAddress = http://localhost:5023
+
+GET {{WSBackCityLending_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

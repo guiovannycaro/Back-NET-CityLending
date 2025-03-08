@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackcitylending\\wsbackcitylending\\dominio\\modelos\\scheduleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|solutionrelative:wsbackcitylending\\dominio\\modelos\\scheduleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackcitylending\\wsbackcitylending\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|solutionrelative:wsbackcitylending\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackcitylending\\wsbackcitylending\\infraestructura\\controllers\\scheduleusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|solutionrelative:wsbackcitylending\\infraestructura\\controllers\\scheduleusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackcitylending\\wsbackcitylending\\aplicacion\\dao\\scheduleuserdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|solutionrelative:wsbackcitylending\\aplicacion\\dao\\scheduleuserdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackcitylending\\wsbackcitylending\\infraestructura\\interfases\\isheduleuserinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|solutionrelative:wsbackcitylending\\infraestructura\\interfases\\isheduleuserinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackcitylending\\wsbackcitylending\\infraestructura\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|solutionrelative:wsbackcitylending\\infraestructura\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackcitylending\\wsbackcitylending\\infraestructura\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F9D1B6-5831-40B3-8142-3244BED44E46}|WSBackCityLending\\WSBackCityLending.csproj|solutionrelative:wsbackcitylending\\infraestructura\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\Program.cs",
+              "RelativeDocumentMoniker": "WSBackCityLending\\Program.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\Program.cs",
+              "RelativeToolTip": "WSBackCityLending\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T01:38:57.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "WSBackCityLending\\infraestructura\\Controllers\\ProfileController.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "WSBackCityLending\\infraestructura\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:38:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScheduleuserController.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\Controllers\\ScheduleuserController.cs",
+              "RelativeDocumentMoniker": "WSBackCityLending\\infraestructura\\Controllers\\ScheduleuserController.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\Controllers\\ScheduleuserController.cs",
+              "RelativeToolTip": "WSBackCityLending\\infraestructura\\Controllers\\ScheduleuserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:36:22.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AreasController.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\Controllers\\AreasController.cs",
+              "RelativeDocumentMoniker": "WSBackCityLending\\infraestructura\\Controllers\\AreasController.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\Controllers\\AreasController.cs",
+              "RelativeToolTip": "WSBackCityLending\\infraestructura\\Controllers\\AreasController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:32:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleUser.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\dominio\\modelos\\ScheduleUser.cs",
+              "RelativeDocumentMoniker": "WSBackCityLending\\dominio\\modelos\\ScheduleUser.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\dominio\\modelos\\ScheduleUser.cs",
+              "RelativeToolTip": "WSBackCityLending\\dominio\\modelos\\ScheduleUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:20:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISheduleUserInter.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\interfases\\ISheduleUserInter.cs",
+              "RelativeDocumentMoniker": "WSBackCityLending\\infraestructura\\interfases\\ISheduleUserInter.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\infraestructura\\interfases\\ISheduleUserInter.cs",
+              "RelativeToolTip": "WSBackCityLending\\infraestructura\\interfases\\ISheduleUserInter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:12:24.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScheduleuserDaoImpl.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\aplicacion\\dao\\ScheduleuserDaoImpl.cs",
+              "RelativeDocumentMoniker": "WSBackCityLending\\aplicacion\\dao\\ScheduleuserDaoImpl.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackCityLending\\WSBackCityLending\\aplicacion\\dao\\ScheduleuserDaoImpl.cs",
+              "RelativeToolTip": "WSBackCityLending\\aplicacion\\dao\\ScheduleuserDaoImpl.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswMcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:10:16.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

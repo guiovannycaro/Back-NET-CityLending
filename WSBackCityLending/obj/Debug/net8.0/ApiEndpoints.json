@@ -1,0 +1,856 @@
+[
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.AreasController",
+    "Method": "deleteUsers",
+    "RelativePath": "lending/AppAdmin/Area/DeleteAreas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.AreasController",
+    "Method": "findUsersById",
+    "RelativePath": "lending/AppAdmin/Area/FindAreasById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.Areas, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.AreasController",
+    "Method": "findUsersByName",
+    "RelativePath": "lending/AppAdmin/Area/FindAreasByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "WSBackCityLending.dominio.modelos.Areas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.Areas, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.AreasController",
+    "Method": "obtDocuments",
+    "RelativePath": "lending/AppAdmin/Area/GetAllAreas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.Areas, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.AreasController",
+    "Method": "insertUsers",
+    "RelativePath": "lending/AppAdmin/Area/InsertAreas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.Areas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.AreasController",
+    "Method": "updatDocuments",
+    "RelativePath": "lending/AppAdmin/Area/UpdateAreas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.Areas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.CompanyLocationController",
+    "Method": "deleteUsers",
+    "RelativePath": "lending/AppAdmin/Company/DeleteCompany",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.CompanyLocationController",
+    "Method": "findUsersById",
+    "RelativePath": "lending/AppAdmin/Company/FindCompanyById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.CompanyLocation, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.CompanyLocationController",
+    "Method": "findUsersByName",
+    "RelativePath": "lending/AppAdmin/Company/FindCompanyByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "WSBackCityLending.dominio.modelos.CompanyLocation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.CompanyLocation, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.CompanyLocationController",
+    "Method": "obtDocuments",
+    "RelativePath": "lending/AppAdmin/Company/GetAllCompany",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.CompanyLocation, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.CompanyLocationController",
+    "Method": "insertUsers",
+    "RelativePath": "lending/AppAdmin/Company/InsertCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.CompanyLocation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.CompanyLocationController",
+    "Method": "updatDocuments",
+    "RelativePath": "lending/AppAdmin/Company/UpdateCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.CompanyLocation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ProfileController",
+    "Method": "deleteUsers",
+    "RelativePath": "lending/AppAdmin/Profile/DeleteProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ProfileController",
+    "Method": "findUsersById",
+    "RelativePath": "lending/AppAdmin/Profile/FindProfileById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.Profile, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ProfileController",
+    "Method": "findUsersByName",
+    "RelativePath": "lending/AppAdmin/Profile/FindProfileByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "WSBackCityLending.dominio.modelos.Profile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.Profile, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ProfileController",
+    "Method": "obtDocuments",
+    "RelativePath": "lending/AppAdmin/Profile/GetAllProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.Profile, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ProfileController",
+    "Method": "insertUsers",
+    "RelativePath": "lending/AppAdmin/Profile/InsertProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.Profile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ProfileController",
+    "Method": "updatDocuments",
+    "RelativePath": "lending/AppAdmin/Profile/UpdateProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.Profile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.seguridad.ServicioSeguridadController",
+    "Method": "autenticacion",
+    "RelativePath": "lending/AppAdmin/Security/Autenticacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "WSBackCityLending.dominio.dto.SecurityUDtos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.seguridad.ServicioSeguridadController",
+    "Method": "changePassword",
+    "RelativePath": "lending/AppAdmin/Security/ChangePassword",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "WSBackCityLending.dominio.dto.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.seguridad.ServicioSeguridadController",
+    "Method": "getPerfil",
+    "RelativePath": "lending/AppAdmin/Security/GetProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.seguridad.ServicioSeguridadController",
+    "Method": "obtenerNombreUsuario",
+    "RelativePath": "lending/AppAdmin/Security/ObtNameUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ScheduleuserController",
+    "Method": "updateLocations",
+    "RelativePath": "lending/AppAdmin/Ubicaciones/DeleteLocations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ScheduleuserController",
+    "Method": "findLocationsById",
+    "RelativePath": "lending/AppAdmin/Ubicaciones/FindLocationsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.ScheduleUser, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ScheduleuserController",
+    "Method": "obtUsers",
+    "RelativePath": "lending/AppAdmin/Ubicaciones/GetAllLocations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.ScheduleUser, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ScheduleuserController",
+    "Method": "InserLocations",
+    "RelativePath": "lending/AppAdmin/Ubicaciones/InsertLocations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.ScheduleUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.ScheduleuserController",
+    "Method": "updateLocations",
+    "RelativePath": "lending/AppAdmin/Ubicaciones/UpdateLocations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.ScheduleUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.UsersController",
+    "Method": "deleteUsers",
+    "RelativePath": "lending/AppAdmin/Users/DeleteUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.UsersController",
+    "Method": "findUsersById",
+    "RelativePath": "lending/AppAdmin/Users/FindUsersById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dato",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Users",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.UsersController",
+    "Method": "findUsersByName",
+    "RelativePath": "lending/AppAdmin/Users/FindUsersByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Users",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.UsersController",
+    "Method": "obtUsers",
+    "RelativePath": "lending/AppAdmin/Users/GetAllusers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.modelos.Users, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.UsersController",
+    "Method": "getRegistryProfile",
+    "RelativePath": "lending/AppAdmin/Users/GetRegistryProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WSBackCityLending.dominio.dto.ProfileUserDto, WSBackCityLending, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.UsersController",
+    "Method": "insertUsers",
+    "RelativePath": "lending/AppAdmin/Users/InsertUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WSBackCityLending.infraestructura.Controllers.UsersController",
+    "Method": "updatUsers",
+    "RelativePath": "lending/AppAdmin/Users/UpdateUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datos",
+        "Type": "WSBackCityLending.dominio.modelos.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WSBackCityLending.dominio.modelos.Ansewer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
